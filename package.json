@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://FurqanMJ.github.io/portifolio",
+  "homepage": "https://FurqanMJ.github.com/portifolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://FurqanMJ.github.io/portifolio'",
+    "build-gh": "parcel build --public-url 'https://FurqanMJ.github.com/portifolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
